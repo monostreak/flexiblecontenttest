@@ -1,0 +1,6 @@
+Experiment to test a bug with app engine managed vm.
+
+resp.setCharacterEncoding("UTF-8") does not set the character encoding correctly when running on managed vm, however works on standard instances and when being ran locally.
+
+live page:
+flexiblecontenttest.appspot.com

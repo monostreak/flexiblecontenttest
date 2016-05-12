@@ -6,7 +6,7 @@
 
     <vm>true</vm>
     <vm-settings>
-        <setting name="machine_type" value="f1-micro"/>
+        <setting name="machine_type" value="n1-standard-1"/>
     </vm-settings>
     <precompilation-enabled>false</precompilation-enabled>
 
